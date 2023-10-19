@@ -64,3 +64,6 @@ Complexitat: Adherir-se estrictament a tots els principis de disseny i bones pr�
 
 Contingut del codi: Alguns principis o pràctiques poden ser més rellevants segons el context. Per exemple, si em demanes un petit fragment de codi, és possible que no tots els principis SOLID siguin aplicables. En aquests casos, em centraré en els aspectes més pertinents de les bones pràctiques.
 ```
+
+#src/main/java/cat/iesesteveterradas/mp06/uf1/exemples/MainExemples.java
+#src/main/java/cat/iesesteveterradas/mp06/uf1/exemples/MainExemples.java
