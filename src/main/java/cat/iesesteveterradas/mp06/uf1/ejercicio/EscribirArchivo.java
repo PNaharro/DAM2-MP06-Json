@@ -21,6 +21,7 @@ public class EscribirArchivo {
 
         llistaDeLlibres.add(llistaDeLlibres.size(), map);
         objectMapper.writeValue(new File("data/llibres_input.json"), llistaDeLlibres);
+        System.out.println("id " +llistaDeLlibres.size()+1 + "añadido");
         System.out.println("Dades guardades amb èxit a sortida.json!");
         
     }

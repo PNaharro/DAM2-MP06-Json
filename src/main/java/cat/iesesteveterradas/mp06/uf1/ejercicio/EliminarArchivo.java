@@ -22,6 +22,7 @@ public class EliminarArchivo {
 
      
         objectMapper.writeValue(new File("data/llibres_input.json"), llistaDeLlibres);
+        System.out.println("id 1, eliminado.");
         System.out.println("Dades guardades amb èxit a sortida.json!");
     }
 }

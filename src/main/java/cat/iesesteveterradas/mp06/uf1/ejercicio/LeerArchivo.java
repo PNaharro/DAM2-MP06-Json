@@ -16,6 +16,9 @@ public class LeerArchivo {
         for (Map<String, Object> map : llistaDeLlibres ) {
             print += "Id : " + map.get("id")+" Titol: "+map.get("títol")+" Autor: "+ map.get("autor")+" Any: "+ map.get("any")+"\n";
         }
+        System.out.println("#");
         System.out.println(print);
+        System.out.println("#");
+
     }
 }
